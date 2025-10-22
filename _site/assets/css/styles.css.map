@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"body {\r\n background: #FFFFFF;\r\n margin-left: 20px;\r\n font-family: verdana;\r\n font-size: 0.9em;\r\n line-height: 150%;\r\n display: grid;\r\n grid-template-rows: auto auto auto;\r\n grid-template-columns: auto auto 300px;\r\n grid-gap: 20px;\r\n }\r\n\r\na { \r\n  color: #000000;\r\n  &[href^=\"http\"]{ &:before { content: \"\\2197\\0020\"; white-space: nowrap; }  }\r\n }\r\n \r\n logo {\r\n  grid-row: 1/2;\r\n  grid-column: 1/2;\r\n  }\r\n\r\nnav {\r\n  grid-row: 2/3;\r\n  grid-column: 1/2;\r\n  }\r\n\r\nmain {\r\n  grid-row: 2/3;\r\n  grid-column: 2/3;\r\n  padding: 5px;\r\n  border-radius: 10px;\r\n  padding: 5px;\r\n  box-shadow: 5px 5px 10px grey;\r\n  }\r\n\r\nfooter {\r\n  grid-row: 3/4;\r\n  grid-column: 2/3;\r\n  text-align: center;\r\n  font-size: 0.75em;\r\n  }\r\n \r\n.ctmain {\r\n\r\n }\r\n \r\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACJ,UAAU,EAAE,OAAO,EACnB,WAAW,EAAE,IAAI,EACjB,WAAW,EAAE,OAAO,EACpB,SAAS,EAAE,KAAK,EAChB,WAAW,EAAE,IAAI,EACjB,OAAO,EAAE,IAAI,EACb,kBAAkB,EAAE,cAAc,EAClC,qBAAqB,EAAE,eAAe,EACtC,QAAQ,EAAE,IAAI,GACb;;AAEF,AAAA,CAAC,CAAC,EACA,KAAK,EAAE,OAAO,GAEd;;AAHF,AAEmB,CAFlB,CAEE,AAAA,IAAC,EAAM,MAAM,AAAZ,EAAiB,MAAM,CAAC,EAAE,OAAO,EAAE,YAAY,EAAE,WAAW,EAAE,MAAM,GAAI;;AAG3E,AAAA,IAAI,CAAC,EACJ,QAAQ,EAAE,GAAG,EACb,WAAW,EAAE,GAAG,GACf;;AAEH,AAAA,GAAG,CAAC,EACF,QAAQ,EAAE,GAAG,EACb,WAAW,EAAE,GAAG,GACf;;AAEH,AAAA,IAAI,CAAC,EACH,QAAQ,EAAE,GAAG,EACb,WAAW,EAAE,GAAG,EAChB,OAAO,EAAE,GAAG,EACZ,aAAa,EAAE,IAAI,EACnB,OAAO,EAAE,GAAG,EACZ,UAAU,EAAE,iBAAiB,GAC5B;;AAEH,AAAA,MAAM,CAAC,EACL,QAAQ,EAAE,GAAG,EACb,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM,EAClB,SAAS,EAAE,MAAM,GAChB"
+}

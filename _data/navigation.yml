@@ -1,0 +1,6 @@
+- name: Startseite
+  link: index.html
+- name: Kurse
+  link: kurse.html
+- name: Kontakt
+  link: kontakt.html
