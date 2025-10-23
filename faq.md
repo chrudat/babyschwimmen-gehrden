@@ -3,7 +3,7 @@ title: FAQ
 ---
 # Häufige Fragen
  
-[Welchen Nutzen hat das Säuglingsschwimmen?] (# welchen-nutzen-hat-das-säuglingsschwimmen?)
+[Welchen Nutzen hat das Säuglingsschwimmen?] (# welchen-nutzen-hat-das-s&auml;uglingsschwimmen?)
 
 Was wird in einem Kurs gemacht?
 
