@@ -3,17 +3,16 @@ title: FAQ
 ---
 # Häufige Fragen
  
-[Welchen Nutzen hat das Säuglingsschwimmen? ] (#nutzen)
+Welchen Nutzen hat das Säuglingsschwimmen? 
 
-[Was wird in einem Kurs gemacht?] (#was)
+Was wird in einem Kurs gemacht?
 
-[Worauf muss man achten?] (#worauf)
+Worauf muss man achten?
 
-[Welches Schwimmbad ist geeignet?] (#welches) 
+Welches Schwimmbad ist geeignet? 
 
-[Was muss ich zum Schwimmkurs mitbringen?] (#mitbringen)
+Was muss ich zum Schwimmkurs mitbringen?
 
-<a id="nutzen"></a>
 ### Welchen Nutzen hat das Säuglingsschwimmen?
 
 Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch viele gute Gründe, einen Babyschwimmkurs zu besuchen: 
@@ -27,7 +26,6 @@ Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch v
 * es macht Spaß und fördert die Bindung zwischen Eltern und Kind 
 * weiterer (positiver) Nebeneffekt: Das Baby toleriert das Duschen und Haare waschen besser 
 
-<a id="was"></a>
 ### Was wird in einem Kurs gemacht?
 
 * es werden verschiedene Haltegriffe erlernt, damit Ihr Baby sich im Wasser sicher fühlt 
@@ -36,7 +34,6 @@ Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch v
 * das Baby lernt, dass es durch Bewegung der Beine im Wasser vorwärts kommt und übt somit bereits schwimmähnliche Bewegungen 
 * der natürliche Atemschutzreflex, unter Wasser die Luft anzuhalten, wird trainiert; auch größere Babys können diesen wieder erlernen, wenn sie ihn bereits verloren haben 
 
-<a id="worauf"></a>
 ### Worauf muss man achten?
 
 * das Baby muss ausgeschlafen und satt sein, sollte jedoch nicht unmittelbar vor dem Schwimmen gegessen haben 
@@ -51,7 +48,6 @@ Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch v
 * da die Babys nach dem Schwimmen meistens hungrig und müde sind, nehmen Sie etwas zu essen und zu trinken mit 
 * gönnen Sie ihrem Kind im Anschluss an das Schwimmtraining eine Pause und verzichten Sie auf weitere anstrengende Unternehmungen 
 
-<a id="welches"></a>
 Welches Schwimmbad ist geeignet?
 
 Das Bad sollte 
@@ -62,7 +58,6 @@ Das Bad sollte
 * einen eigenen Babybereich mit extra Becken haben 
 * Wasserspielzeug und eine kleine Rutsche bieten 
 
-<a id="mitbringen"></a>
 ### Was muss ich zum Schwimmkurs mitbringen?
 
 Hier eine Checkliste, was Sie für Ihr Baby einpacken sollten bzw. können: 
