@@ -48,7 +48,7 @@ Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch v
 * da die Babys nach dem Schwimmen meistens hungrig und müde sind, nehmen Sie etwas zu essen und zu trinken mit 
 * gönnen Sie ihrem Kind im Anschluss an das Schwimmtraining eine Pause und verzichten Sie auf weitere anstrengende Unternehmungen 
 
-Welches Schwimmbad ist geeignet?
+### Welches Schwimmbad ist geeignet?
 
 Das Bad sollte 
 * nicht zu stark gechlort sein 
