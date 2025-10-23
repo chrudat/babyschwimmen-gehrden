@@ -7,7 +7,7 @@ Welchen Nutzen hat das Säuglingsschwimmen?
 
 Was wird in einem Kurs gemacht?
 
-[Worauf muss man achten?] {#worauf-muss-man-achten}
+Worauf muss man achten?
 
 Welches Schwimmbad ist geeignet? 
 
@@ -34,7 +34,7 @@ Richtig schwimmen lernen kann Ihr Kind erst mit ca. 4 Jahren - es gibt dennoch v
 * das Baby lernt, dass es durch Bewegung der Beine im Wasser vorwärts kommt und übt somit bereits schwimmähnliche Bewegungen 
 * der natürliche Atemschutzreflex, unter Wasser die Luft anzuhalten, wird trainiert; auch größere Babys können diesen wieder erlernen, wenn sie ihn bereits verloren haben 
 
-### Worauf muss man achten? {#worauf-muss-man-achten}   
+### Worauf muss man achten?
 
 * das Baby muss ausgeschlafen und satt sein, sollte jedoch nicht unmittelbar vor dem Schwimmen gegessen haben 
 * Babys dürfen zum Schutz der eigenen Gesundheit u. a. bei den folgenden Erkrankungen nicht am Babyschwimmen teilnehmen: Fieber, Ohrenentzündung, offene Wunde, ansteckende Krankheit (Wir bitten um vorherige Absage, wenn Ihr Kind an einer Kursstunde nicht teilnehmen kann!) 
