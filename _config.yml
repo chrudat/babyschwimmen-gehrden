@@ -12,5 +12,4 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-markdown: kramdown 
+      
