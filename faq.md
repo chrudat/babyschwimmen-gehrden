@@ -7,7 +7,7 @@ Welchen Nutzen hat das Säuglingsschwimmen?
 
 Was wird in einem Kurs gemacht?
 
-[Worauf muss man achten?] {#worauf-muss-man-achten?}
+[Worauf muss man achten?] {#worauf-muss-man-achten}
 
 Welches Schwimmbad ist geeignet? 
 
